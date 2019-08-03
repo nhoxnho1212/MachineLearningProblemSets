@@ -6,3 +6,5 @@
 > submitted 11pm 28/7/2019
 
 > updated 12pm 29/7/2019 : add 'Bonus'
+## Week 2: (finished)
+>finished 12am 4/8/2019
