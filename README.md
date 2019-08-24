@@ -10,5 +10,8 @@
 > updated 8am 7/8/2019 : edit problem **How many Job Titles were represented by only one person in 2013? (e.g. Job Titles with only one occurence in 2013?)**
   We need to filter rows that has Job Titles appear only one time in 2013
   
-## Week 2: (finished)
->finished 12am 4/8/2019
+## Week 3: (finished)
+> finished 12am 4/8/2019
+
+## week 6: (finished)
+> finished 10pm 24/8/2019
